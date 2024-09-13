@@ -1,1 +1,4 @@
-Week 2
+Week 2 (and 1)
+We installed unity and unity hub and tried to load the exisitng scenarios. 
+
+For the scenario, we want to focus on a scenario where there is no sidewalk and thus a pedestrian is walking on the side of the road. The pedestrian is walking and the car needs to pass by. The question is how comfortable the person sitting in the AV is with the speed and distance that the AV leaves for the passenger, as the passenger is programmed to make a step sideways. The driver inside the car can indicate when they want to pull the steering wheel and/or brake to move away from the pedestrian.
