@@ -1,5 +1,6 @@
 Week 2 (and 1)
-We installed unity and unity hub and tried to load the exisitng scenarios. 
+-----------------
+We installed unity and unity hub and tried to load the existing scenarios. 
 
 For the scenario, we want to focus on a scenario where there is no sidewalk and thus a pedestrian is walking on the side of the road. 
 The pedestrian is walking and the car needs to pass by. 
@@ -10,3 +11,8 @@ The driver inside the car can indicate when they want to pull the steering wheel
 The pedestrian can indicate when it feels the need to increase the distance between the car and him/herselves.
 
 We considered this specific scenario because there are a lot of places where there is no sidewalk and pedestrians are forced to walk on the road. For this reason, AV's should be prepared to handle these types of situations in a way that makes the pedestrian as safe and comfortable as possible.
+
+Week 3
+------------------
+@Jurre: I tried to inmplement an animation of a car running past a pedestrian, however, I am not able to test it since I can not run simulations. I fail to follow the exact instructions from the github, starting with that I can not find the NetworkingManager in unity. 
+I dont know if I succeed with what follows afterwards, since I cant get past step 1. Instead I tried to implement animations in github, for which I used chatgpt to help me with. I discovered how to make an animation, but I cannot test it in a simulation for the stated reasons.
