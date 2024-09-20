@@ -16,3 +16,7 @@ Week 3
 ------------------
 @Jurre: I tried to inmplement an animation of a car running past a pedestrian, however, I am not able to test it since I can not run simulations. I fail to follow the exact instructions from the github, starting with that I can not find the NetworkingManager in unity. 
 I dont know if I succeed with what follows afterwards, since I cant get past step 1. Instead I tried to implement animations in github, for which I used chatgpt to help me with. I discovered how to make an animation, but I cannot test it in a simulation for the stated reasons.
+
+This week, we held a meeting, after everyone tried to work individually on the assignment. We managed to get the simulation running for the first time, but we can not edit anything in it. For the driving scenario plan, we want to experiment with the speed that the car drives while overtaking the pedestrian. 
+The pedestrian will like the lowest speed possible since this will scare him the least, but for the traffic flow this is not ideal. Further it should be possible for an AV to push closer to the limits than humans would do, as the AV can compute quickly what is possible and not, but this may scare pedestrian. 
+Therefore the experiment will consist of the car driving at different speeds and it is up to the pedestrian when he is too scared, i.e. that he does not feel safe. By varying the speed of the AV, it is possible to find a limit where the AV drives the highest speed, while maintaining a safe feeling for the pedestrian.
