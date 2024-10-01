@@ -30,3 +30,7 @@ that we can notice if the pedestrian is scared and wants to jump away.
 For the car: I tried to let an AI car follow a path, next to the pedestrian. This worked in some of the cases. If I try to implement a new spawn point, I did not succeed to let the car move afterwards. I was able however, to change 
 the path of the car if I kept the original spawnpoint. However, the car does not move towards every position, only to some of the streets it works well, for reasons I can not figure out yet. The current situation is that the car 
 overtakes the pedestrian at a high speed and that the pedestrian spawns next to the road and can move from there.
+
+Week 5
+---------------------
+We managed to let the car follow a road, where we can set the speed and let the car move past the same point several times. We have also plotted a pedestrian here. The next step is to figure out how to play with 2 players at the same time because then we can actually simulate the experiment.
