@@ -34,3 +34,35 @@ overtakes the pedestrian at a high speed and that the pedestrian spawns next to 
 Week 5
 ---------------------
 We managed to let the car follow a road, where we can set the speed and let the car move past the same point several times. We have also plotted a pedestrian here. The next step is to figure out how to play with 2 players at the same time because then we can actually simulate the experiment.
+
+We made a new modified road and managed to get the car driving automaticaly drinving on that road using these coordinates:
+
+coordinates/rotati/scale of road:
+    X: 620 Y:0 Z: 0
+    X: -90  Y:0 Z:0
+    X: 0.6 Y:20 Z: 1
+WP1:coordinates
+    X: 620 Y:0 Z:-100
+WP2:coordinates
+    X: 620 Y:0 Z:-200
+WP3:coordinates
+    X: 620 Y:0 Z:-300
+WP4:coordinates
+    X: 620 Y:0 Z:-400
+Car Spawn coordinates:
+    X: 620 Y:0 Z:0
+
+This is how to make self driving car self driving:
+    Go to prefabs/cars go to driveable smart, click it, in inspector 
+    go to player avatar and then set type to pedestrian        
+
+The case of something going wrong: 
+    - then the car has to decide to hit the pedestrian 
+    - or go offroad, 
+    - or stay behind the pedestrian going 1,2km/h per hour.
+
+Challenge ahead: 
+    - Figure out how to add the pedestrian on the side of the road
+    - Figure out how to save the whole scene and push it to gitlab 
+    so we dont have to make it from scratch and everyone can use it
+
