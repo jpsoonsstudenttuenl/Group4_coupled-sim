@@ -65,4 +65,6 @@ Challenge ahead:
     - Figure out how to add the pedestrian on the side of the road
     - Figure out how to save the whole scene and push it to gitlab 
     so we dont have to make it from scratch and everyone can use it
+    - For our experiment it is necessary that we test at what speed a car can drive past a pedestrian, so we need to figure out a way how to test this, while maintaining our initial experiment goal of what speed to maintain. 
+    - Maybe we can do this by initially passing by on a wide road and at the end introduce a small path where they can meet
 
