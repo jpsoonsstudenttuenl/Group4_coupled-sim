@@ -68,3 +68,29 @@ Challenge ahead:
     - For our experiment it is necessary that we test at what speed a car can drive past a pedestrian, so we need to figure out a way how to test this, while maintaining our initial experiment goal of what speed to maintain. 
     - Maybe we can do this by initially passing by on a wide road and at the end introduce a small path where they can meet
 
+Week 6
+---------------------
+Regarding the experiments that we will perform, we defined  a set of vehicle velocities and distances between the vehicle and the pedestrian so that we can conduct our experiment.
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+|             | Velocities   | 5 km/h  | 10 km/h | 15 km/h | 20 km/h | 30 km/h | 40 km/h | 50 km/h | 75 km/h | 
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| Distances   |Comfort/Safety|         |         |         |         |         |         |         |         |
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| 0.5 m       |              |         |         |         |         |         |         |         |         |
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| 1 m         |              |         |         |         |         |         |         |         |         | 
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| 1.5 m       |              |         |         |         |         |         |         |         |         |
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| 2 m         |              |         |         |         |         |         |         |         |         |
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+| 3 m         |              |         |         |         |         |         |         |         |         |
++-------------+--------------+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Note that this values are only our initial guesses and will change during the course of the actual experiment.
+On each cell, one of three values would be inputted to classify the pedestrian's interaction with the vehicle:
+- Comfortable and Safe
+- Not Comfortable but Safe
+- Not Comfortable, not Safe
+
+To mitigate the somewhat subjective nature of this experiment, each group member will take turns controlling the civilian and the level of Comfort / Safety will be the mode of each member's assessment.
