@@ -94,3 +94,8 @@ On each cell, one of three values would be inputted to classify the pedestrian's
 - Not Comfortable, not Safe
 
 To mitigate the somewhat subjective nature of this experiment, each group member will take turns controlling the civilian and the level of Comfort / Safety will be the mode of each member's assessment.
+
+Week 7
+---------------------
+We built a rural scenario where the pedestrian is passed by an autonomous vehicle. A truck is parked to the other side of the pedestrian to make the car pass the pedestrian at a distance of 1.5 m.
+The feeling of safety / comfort of the pedestrian is also described by the following graph:
