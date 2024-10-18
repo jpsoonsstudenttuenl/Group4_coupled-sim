@@ -98,4 +98,4 @@ To mitigate the somewhat subjective nature of this experiment, each group member
 Week 7
 ---------------------
 We built a rural scenario where the pedestrian is passed by an autonomous vehicle. A truck is parked to the other side of the pedestrian to make the car pass the pedestrian at a distance of 1.5 m.
-The feeling of safety / comfort of the pedestrian is also described by the following graph:
+
