@@ -117,3 +117,4 @@ In this project we managed to integrate several of the topics studied during the
 Collaboration and Iteration
 During the course of the project, we always managed to divide the tasks in a just and fair way. Also, we communicated with each other very often and in a very organized way.
 
+@Jurre: I worked further on the scenario, based on Vasco's and Dennis' file. I let the car go in 2 laps and added an interaction with a pedestrian. It will be hard to implement an interaction with another car, but maybe if we can adapt another pedestrian so it looks like a car. I further added surroundings (trees, houses).
