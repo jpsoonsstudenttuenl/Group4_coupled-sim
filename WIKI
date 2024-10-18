@@ -99,7 +99,9 @@ Week 7
 ---------------------
 We built a rural scenario where the pedestrian is passed by an autonomous vehicle. A truck is parked to the other side of the pedestrian to make the car pass the pedestrian at a distance of 1.5 m.
 
-After receiving the rubric for the project, we decided to do a team self-assessment to see what could still be improved. These were our conclusions:
+After receiving the rubric for the project, we decided to do a team self-assessment to see what could still be improved. 
+These were our conclusions:
+
 Technical Execution
 Regarding our technical execution, we managed to simulate the scenario that we defined initially. Although we haven’t implemented any highly innovative features yet, we still managed to execute everything we set out to, in an efficient and reliable way.
 
@@ -110,7 +112,7 @@ Contextual Relevance
 Our simulation accurately reflects some of the struggles of an often more overlooked part of society: the rural areas. In these areas is often difficult to build the necessary infrastructure (sidewalks, barriers, etc…) that typically protect pedestrians. Therefore, it is very important that autonomous vehicles behave in a way that never compromises the safety (and comfort) of the pedestrians when driving through these areas.
 
 Course Integration
-In this project we managed to integrate several of the topics studied during the course, namely: 
+In this project we managed to integrate several of the topics studied during the course, namely: AV and human interaction, AV perception and situational awareness, safety in Pedestrian-AV interactions, etc...
 
 Collaboration and Iteration
 During the course of the project, we always managed to divide the tasks in a just and fair way. Also, we communicated with each other very often and in a very organized way.
